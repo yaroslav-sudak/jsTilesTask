@@ -6,3 +6,5 @@ Each cell can contain one game element. When we select any of the cells, we have
 Preview of the program
 
 To launch the program you have to load files on your computer and run ```index.html``` file.
+
+Other way is to use this [link](https://yaroslav-sudak.github.io/jsTilesTask/).
